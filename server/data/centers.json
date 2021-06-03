@@ -1,0 +1,2557 @@
+{
+  "centers": [
+    {
+      "center_id": 715294,
+      "name": "GCVC - TENALI PPU",
+      "address": "TENALI PPU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Tenali",
+      "pincode": 522201,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6e459897-0ef7-4b0a-b3f5-3393c4cc8b53",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "de41a945-036e-4e1a-a289-854bcf21195a",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599668,
+      "name": "GCVC - IPURU CHC",
+      "address": "IPURU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ipur",
+      "pincode": 522658,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4aa0762e-546b-42f5-b999-9854962f1732",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "3e855c2d-7fd9-4bb5-9b3c-526048a85a68",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 715244,
+      "name": "GCVC - MANGALAGIRI UFWC",
+      "address": "MANGALAGIRI UFWC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Mangalagiri",
+      "pincode": 522503,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "199205a7-1e3b-4420-9b6e-288c28be9cb5",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599862,
+      "name": "GCVC - IPD COLONY UPHC",
+      "address": "IPD COLONY UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522003,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d290d6aa-8b58-4314-8c26-76a1102b8f4f",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "6facbff7-361a-4062-ad5c-f24aa0576d19",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599768,
+      "name": "GCVC - PEDAVADLAPUDI PHC",
+      "address": "PEDAVADLAPUDI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Mangalagiri",
+      "pincode": 522302,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6d898ae4-fcf3-4032-a334-e1d86087c853",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "05d70379-20ef-48b1-b552-4b4e56ea3ec2",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600136,
+      "name": "GCVC - SRINIVASARAO THOTA UPHC",
+      "address": "SRINIVASA RAO THOTA UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522004,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4d663efe-ca6f-4f79-9aed-b21053d9a324",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "b1c224f6-4f25-4a1d-b656-4e9ba9bee772",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600019,
+      "name": "GCVC - GUNDARAO PET UPHC-2ND",
+      "address": "GUNDARAO PET UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522004,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "73c8eb26-cf4a-40f6-938e-81b017488e00",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "509817cd-3f09-4e5d-a647-ab3e16468405",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599600,
+      "name": "GCVC - GOTTIPADU PHC-2ND DOSE",
+      "address": "GOTTIPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Prathipadu",
+      "pincode": 522019,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3c2105c6-63b3-44e1-ad31-d2e76fc6a9b1",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "831096eb-c57b-42b2-91eb-209db7085ff9",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599990,
+      "name": "GCVC - TUFFANNAGAR UPHC-2NDDOS",
+      "address": "TUFFANNAGAR UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522006,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c9c183a6-be3f-4319-aa95-0f9ba5a3d6db",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600120,
+      "name": "GCVC - NGO COLONY UPHC-2NDDOSE",
+      "address": "NGO COLONY UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522002,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4322583d-e02d-411f-ba4c-62591a0d8e34",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604336,
+      "name": "GCVC - PEDAPALAKALURU PHC-2ND",
+      "address": "Primary Health Center Pedapalakaluru",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522007,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a19da2d7-32b1-41d1-9b9a-f23801e69e66",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "73e1f0ab-4e49-46a1-8e75-3e8977980617",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599503,
+      "name": "GCVC - BAPATLA AH",
+      "address": "BAPATLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Bapatla",
+      "pincode": 522101,
+      "lat": 15,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3c24f335-e418-4516-bc05-eb4650a83f18",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599892,
+      "name": "GCVC - CHANDRAJUPALEM PHC-2ND",
+      "address": "Phc Chandrajupalemphc Chandrajupalem",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Bellamkonda",
+      "pincode": 522411,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "77d9d562-5490-449d-9e38-af44ecb8180e",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVAXIN",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        },
+        {
+          "session_id": "9e9f0ac4-dca2-48f5-81d0-ddb8c069b583",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600020,
+      "name": "GCVC - RAJUPALEM PHC-2ND DOSE",
+      "address": "Near Electricity Sub StationBeside ZPH School RAJUPALAM",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Rajupalem",
+      "pincode": 522412,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "04037960-4a12-4141-9e05-2dfae32fa6b6",
+          "date": "03-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599998,
+      "name": "GCVC - MANDAPADU PHC",
+      "address": "MANDAPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Medikonduru",
+      "pincode": 522401,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5afb3076-17b4-40fd-8dbb-ae6ed74fbd93",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 610218,
+      "name": "GCVC - AMARAVATHI CHC",
+      "address": "COMMUNITY HEALTH CENTERAmareswara Temple",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Amaravathi",
+      "pincode": 522020,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6d104c4c-342c-4e92-91c2-2962c825d690",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599661,
+      "name": "GCVC - MACHAVARAM PHC",
+      "address": "MACHAVARAM",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Machavaram",
+      "pincode": 522615,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6cd0ad92-1801-4ea4-9baa-92ee202def65",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599703,
+      "name": "GCVC - KAREMPUDI PHC",
+      "address": "KAREMPUDI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Karempudi",
+      "pincode": 522614,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "628c2c60-3506-4891-b2df-fe2d91a7ea72",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599651,
+      "name": "GCVC - GURAZALA CHC",
+      "address": "GURAZALA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Gurazala",
+      "pincode": 522415,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e3f61397-7b0b-46d8-b98c-6fc83a053646",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599585,
+      "name": "GCVC - EDLAPADU PHC",
+      "address": "EDLAPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Edlapadu",
+      "pincode": 522233,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9c4631f9-e949-47cd-bbae-f5d338640d03",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599635,
+      "name": "GCVC - KAVURU CPT PHC",
+      "address": "KAVURU CPT",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Chilakaluripeta",
+      "pincode": 522611,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "47ed8cae-b138-4e66-a907-3c6faebb2a96",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599981,
+      "name": "GCVC - MEDIKONDURU PHC",
+      "address": "MEDIKONDURU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Medikonduru",
+      "pincode": 522438,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3a228baa-9025-4de0-a2bb-f6fae6001e4b",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604329,
+      "name": "GCVC - PEDANANDIPADU PHC",
+      "address": "Primary Health Center Pedanandipadu",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Pedanandipadu",
+      "pincode": 522235,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d62c0ab3-a1a1-4b6c-8edc-bb57db5b7db1",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599655,
+      "name": "GCVC - DACHEPALLI PHC",
+      "address": "DACHEPALLI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Dachepalli",
+      "pincode": 522414,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "968a14bf-d727-492b-8a9b-023de41b544f",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599709,
+      "name": "GCVC - BOLLAPALLI PHC",
+      "address": "BOLLAPALLI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Bollapalli",
+      "pincode": 522657,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4472f381-e02a-4432-af94-43a7bb7ad1e9",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599774,
+      "name": "GCVC - PRATHIPADU CHC",
+      "address": "PRATHIPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Prathipadu",
+      "pincode": 522019,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c0b9b5c5-3b49-48c9-89d7-cc12377e0c72",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600038,
+      "name": "GCVC - SHALIMNAGAR UPHC",
+      "address": "SHALIMNAGAR UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Narasaraopeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d2817e4d-4c13-4962-bc76-20f9df2b1f5a",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600092,
+      "name": "GCVC - NUZENDLA PHC",
+      "address": "ZPH School RoadBehind MRO Office NUZENDLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Nuzendla",
+      "pincode": 522660,
+      "lat": 15,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "96d4da49-641c-4ec6-bb13-c7341d70160b",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600078,
+      "name": "GCVC - SUBBAIAHTHOTA UPHC",
+      "address": "SUBBAIAHTHOTA UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Chilakaluripeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "dc884c48-cc7d-488f-9825-133eb02e33a8",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600081,
+      "name": "GCVC - ENUGUPALEM PHC",
+      "address": "Main. RoadEnugupalem",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Vinukonda",
+      "pincode": 522649,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f9ae5f4a-83e5-4c51-9690-595c66237dfc",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599690,
+      "name": "GCVC - GADEVARIPALLI PHC",
+      "address": "GADEVARIPALLI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Karempudi",
+      "pincode": 522614,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9568bba8-d2d3-4e0a-8ed7-a98a88a7eb71",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 715279,
+      "name": "GCVC - VINUKONDA PPU",
+      "address": "VINUKONDA PPU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Vinukonda",
+      "pincode": 522647,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5178ee80-69d4-46cb-831a-7241c8814ad6",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 715277,
+      "name": "GCVC - NARASARAOPETA PPU",
+      "address": "NARASARAOPETA PPU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Narasaraopeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "aa827568-e0b9-4ec4-bf56-f3a6bdf8fee0",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599995,
+      "name": "GCVC - PANIDAM PHC",
+      "address": "MAIN ROAD PANIDAMPHC PANIDAM",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Sattenapalli",
+      "pincode": 522403,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "db22450f-804b-4898-8aeb-f15b18a29196",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600028,
+      "name": "GCVC - BARAMPETA UPHC",
+      "address": "BARAMPETA UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Narasaraopeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8abd4726-8e5e-4e94-9f41-0b718f81dab8",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599870,
+      "name": "GCVC - PONNURU CHC",
+      "address": "PONNURU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ponnuru",
+      "pincode": 522124,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "2a7f491a-3b1d-42ee-9994-e929669ebe9b",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599573,
+      "name": "GCVC - SATTENAPALLI CHC",
+      "address": "SATTENAPALLE",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Sattenapalli",
+      "pincode": 522403,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ce1ab97b-86e1-44ac-90e6-f1dba2a431f7",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599613,
+      "name": "GCVC - NADENDLA PHC",
+      "address": "NADENDLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Nadendla",
+      "pincode": 522234,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "29825847-ff1e-4fbc-a820-ff05ab6610c3",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599853,
+      "name": "GCVC - MACHERLA CHC",
+      "address": "MACHARLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Macherla",
+      "pincode": 522426,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8c1c25cd-9284-4925-8b29-912dd2e1bf7f",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599714,
+      "name": "GCVC - KOTCHERLA PHC",
+      "address": "KOTCHERLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ipur",
+      "pincode": 522647,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d6b33ed9-a717-4e46-b6ca-18146317cc26",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599590,
+      "name": "GCVC - VINUKONDA CHC",
+      "address": "VINUKONDA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Vinukonda",
+      "pincode": 522647,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8290882b-2a36-4e5f-82f2-4f95beaf5204",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599901,
+      "name": "GCVC - LANCHESTER ROAD UPHC",
+      "address": "LANCHESTER ROAD UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522003,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d212ae8f-9e20-46d9-9c04-15b8352e2e40",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599630,
+      "name": "GCVC - KHAMBAMPADU PHC",
+      "address": "KHAMBAMPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Macherla",
+      "pincode": 522426,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9444a57d-1c75-40b4-94c3-c5d33bc7fd57",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604339,
+      "name": "GCVC - VELLATUR B PHC",
+      "address": "PRIMARY HEALTH CENTER VELLATUR (B) BOLLAPALLI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ipur",
+      "pincode": 522657,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "13d4401d-8690-4bae-a7af-242882f9c77f",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599818,
+      "name": "GCVC - KOTAPPAKONDA PHC",
+      "address": "KOTAPPAKONDA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Narasaraopeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9c322bca-64b2-4776-9a8e-d5b5e4f08e87",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599828,
+      "name": "GCVC - NUDURUPADU PHC",
+      "address": "NUDURUPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Phirangipuram",
+      "pincode": 522529,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "213ec6d1-23a7-4371-b575-09a7afee1a77",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599727,
+      "name": "GCVC - MUPPALLA PHC",
+      "address": "MUPPALLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Muppalla",
+      "pincode": 522661,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "30ce4aa9-a0db-4143-8faf-68d2fbe631d8",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599705,
+      "name": "GCVC - MACHERLA TRIBAL PHC",
+      "address": "PRIMARY HEALTH CENTER MACHERLA TRIBAL",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Macherla",
+      "pincode": 522426,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "43f2f9a5-38a8-4ac1-bfb1-5296d3d49c0e",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604347,
+      "name": "GCVC - PANDRAPADU PHC",
+      "address": "PRIMARY HEALTH CENTER PANDRAPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ponnuru",
+      "pincode": 522112,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7051abc6-500f-4677-a9ec-63969824c96f",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 715273,
+      "name": "GCVC - CHILAKALURIPETA UFWC",
+      "address": "CHILAKALURIPETA UFWC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Chilakaluripeta",
+      "pincode": 522616,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d5c67c03-ef68-4a8d-b493-9097edb2513d",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599843,
+      "name": "GCVC - KUNKALAGUNTA PHC",
+      "address": "KUNKALAGUNTA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Nekarikallu",
+      "pincode": 522615,
+      "lat": 0,
+      "long": 0,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a7d2ddee-45fd-419b-b9c3-2de23b923f01",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600127,
+      "name": "GCVC - RAJAKAPET UPHC",
+      "address": "RAJAKAPET UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Chilakaluripeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "aab5a75e-93e8-4cd7-8d6e-313b376a8b50",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599656,
+      "name": "GCVC - KOPPUNUR PHC",
+      "address": "KOPPUNUR",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Macherla",
+      "pincode": 522426,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5015eda0-89b6-4621-8cf9-e9dfd45e8dff",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599889,
+      "name": "GCVC - KVP COLONY UPHC-2NDDOSE",
+      "address": "KVP COLONY UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Guntur",
+      "pincode": 522004,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fd150a78-ccb5-44de-8c9b-e97d873cced6",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599949,
+      "name": "GCVC - KROSURU PHC",
+      "address": "Krosuru",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Krosuru",
+      "pincode": 522410,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fc601994-16cc-4cae-be67-c581b23452f0",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600074,
+      "name": "GCVC - MANNAVA PHC",
+      "address": "MANNAVA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ponnuru",
+      "pincode": 522316,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "89af6001-42e8-47e2-bd7f-a4e41fb3da61",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600090,
+      "name": "GCVC - INDHIRANAGAR UPHC",
+      "address": "INDHIRANAGAR UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ponnuru",
+      "pincode": 522124,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "89ff1536-b1f9-4cd5-a854-eef1467d37fa",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599595,
+      "name": "GCVC - DURGI PHC",
+      "address": "DURGI",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Durgi",
+      "pincode": 522612,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "79529c16-b426-44c7-b608-83426bfe3933",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 715251,
+      "name": "GCVC - SATTENAPALLI PPU",
+      "address": "SATTENAPALLI PPU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Sattenapalli",
+      "pincode": 522403,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "631b0a31-242e-4d81-bf37-2d2b7bd0ddfa",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600140,
+      "name": "GCVC - VADDVALLI COLONY UPHC",
+      "address": "VADDVALLI COLONY UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Sattenapalli",
+      "pincode": 522403,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "124840ae-6adb-4d2d-970e-7203a4a14cf4",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600049,
+      "name": "GCVC - HANUMAN NAGAR UPHC",
+      "address": "HANUMAN NAGAR",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Vinukonda",
+      "pincode": 522647,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5640fd20-5b82-431e-9a40-8852f5a509a8",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604322,
+      "name": "GCVC - INTURU PHC",
+      "address": "Primary Health Center Inturu",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Amarthaluru",
+      "pincode": 522341,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fe19294c-6fd0-4027-a985-c25c839800c0",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600097,
+      "name": "GCVC - SAVALYAPRAM PHC",
+      "address": "Main Road NRT To VINUKONDAsavalya Puram",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Savalyapuram",
+      "pincode": 522646,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3693b885-821a-4b56-8a3e-7b340d4eb900",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599716,
+      "name": "GCVC - MUPPALLA A PHC",
+      "address": "A MUPPALLA Primary Health Center",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ipur",
+      "pincode": 522661,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d2a8bd87-5b5a-4cc4-a273-f45008e764e7",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 604343,
+      "name": "GCVC - 75 TYALLURU PHC",
+      "address": "PRIMARY HEALTH CENTER 75 TYALLURU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ponnuru",
+      "pincode": 522402,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "124f1d87-45e7-451a-b250-0d4a65f53889",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 600085,
+      "name": "GCVC - GOWDA COLONY UPHC",
+      "address": "GOWDA COLONY UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Macherla",
+      "pincode": 522426,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d1ef588f-82c8-42f4-a698-105628a75d48",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599619,
+      "name": "GCVC - GANAPAVARAM PHC",
+      "address": "GANAPAVARAM",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Nadendla",
+      "pincode": 522412,
+      "lat": 15,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4fc28dc1-c405-4972-b2af-b31af18ddfcd",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599535,
+      "name": "GCVC - ATTALURU PHC",
+      "address": "ATTALURU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Amaravathi",
+      "pincode": 522007,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "63550038-c979-4bce-a78f-77372a89321e",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599855,
+      "name": "GCVC - REDDIPALEM PHC",
+      "address": "REDDIPALEM",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Rompicherla",
+      "pincode": 522617,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e70f6344-505b-4ac3-a6fe-2c72198db11f",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599826,
+      "name": "GCVC - CHILAKALURIPETA CHC",
+      "address": "CHILAKALURIPETA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Chilakaluripeta",
+      "pincode": 522616,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b2f806e7-6b15-4f02-b54e-25f549f02e19",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599687,
+      "name": "GCVC - KARALAPADU PHC",
+      "address": "KARALAPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Piduguralla",
+      "pincode": 522437,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "6fff1f54-1f5d-404c-96a4-9c9397be1097",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599966,
+      "name": "GCVC - ATCHAMPET PHC",
+      "address": "Atchampeta",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Atchampeta",
+      "pincode": 522409,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7feb0cb5-9e76-44d7-aad3-4aac5cb61909",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599493,
+      "name": "GCVC - NARASARAOPET AH",
+      "address": "NARASARAOPET",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Narasaraopeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5092cf3d-e84b-49dc-a67f-4f01ea5704ca",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599765,
+      "name": "GCVC - ROMPICHERLA PHC",
+      "address": "ROMPICHERLA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Rompicherla",
+      "pincode": 522617,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8772eb43-2da1-4d98-b721-b9bba7ccf218",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599976,
+      "name": "GCVC - PURUSHOTHAMAPATNAM UPHC",
+      "address": "PURUSHOTHAMAPATNAM UPHC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Chilakaluripeta",
+      "pincode": 522601,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "90339d11-9941-4a4c-8127-262d1557a601",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599744,
+      "name": "GCVC - PEDAKURAPADU CHC",
+      "address": "PEDAKURAPADU",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Pedakurapadu",
+      "pincode": 522402,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "42119a9b-dbd8-4a86-af56-cd2d05b0d757",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 599675,
+      "name": "GCVC - MADUGULA PHC",
+      "address": "MADUGULA",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Gurazala",
+      "pincode": 522415,
+      "lat": 16,
+      "long": 79,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1bb529b8-68ea-4496-8377-8dbb59f494f9",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 715288,
+      "name": "GCVC - PONNURU UFWC",
+      "address": "PONNURU UFWC",
+      "state_name": "Andhra Pradesh",
+      "district_name": "Guntur",
+      "block_name": "Ponnuru",
+      "pincode": 522124,
+      "lat": 16,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "18:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0c341fe7-c3bf-45e5-8c87-fa3ec924f724",
+          "date": "04-06-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-06:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    }
+  ]
+}
