@@ -87,7 +87,6 @@ export const loadCenters = function* () {
   while (true) {
     const centersAction = yield take(actions.FETCH_CENTERS)
     let districts = centersAction.payload
-    console.log('districts: ', districts)
     let today = new Date();
     let dd = String(today.getDate()).padStart(2, '0');
     let mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
@@ -104,4 +103,44 @@ export const loadCenters = function* () {
       }
     }
   }
+}
+
+export const loadSingleDistrict = function* () {
+  while (true) {
+    const centersAction = yield take(actions.FETCH_SINGLE_DISTRICT_CENTERS)
+    // let districts = centersAction.payload
+    let today = new Date();
+    let dd = String(today.getDate()).padStart(2, '0');
+    let mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+    let yyyy = today.getFullYear();
+    let api = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=5&date=" + dd + "-" + mm + "-" + yyyy
+    try {
+      const results = yield call(getData, api)
+      let centersFor18 = []
+      if (results.centers && results.centers.length > 0) {
+        if (results.centers && results.centers.length > 0) {
+          results.centers.map(center => {
+            if (center.sessions && center.sessions.length > 0) {
+              if(checkFor18PlusAvailability(center)){
+                centersFor18.push(center)
+              }
+            }
+          })
+        }
+        yield put(actions.loadSingleDistrictCentersSuccess(centersFor18))
+      }
+    } catch (error) {
+      console.log('error', error)
+    }
+  }
+}
+
+export const checkFor18PlusAvailability = function(center) {
+  let exists = false
+  center.sessions.map(session => {
+    if (session.min_age_limit && session.min_age_limit === 18) {
+      exists = true
+    }
+  })
+  return exists
 }

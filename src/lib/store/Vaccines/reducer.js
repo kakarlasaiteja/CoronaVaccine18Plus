@@ -9,6 +9,7 @@ const VaccineRecord = Immutable.Record({
     centresList: [],
     countedStates: 0,
     countedDistricts: 0,
+    singleDistrictCenters: 0
 })
 
 const initialState = new VaccineRecord()
@@ -40,6 +41,14 @@ function vaccineReducer(state = initialState, action){
         case actions.TAKE_COUNTED_DISTRICTS: {
             const count = action.payload
             return state.merge({ countedDistricts: count})
+        }
+
+        case actions.LOAD_SINGLE_DISTRICT_CENTERS: {
+            const centerDetails = action.payload
+            return {
+                ...state,
+                singleDistrictCenters: [...centerDetails]
+            }
         }
         default:
             return state

@@ -10,6 +10,8 @@ export const TAKE_CENTERS_LENGTH = "TAKE_CENTERS_LENGTH"
 export const TAKE_COUNTED_STATES = "TAKE_COUNTED_STATES"
 export const TAKE_COUNTED_DISTRICTS = "TAKE_COUNTED_DISTRICTS"
 export const TAKE_COUNTED_CENTERS = "TAKE_COUNTED_CENTERS"
+export const FETCH_SINGLE_DISTRICT_CENTERS = "FETCH_SINGLE_DISTRICT_CENTERS"
+export const LOAD_SINGLE_DISTRICT_CENTERS = "LOAD_SINGLE_DISTRICT_CENTERS"
 
 export const fetchStates = () => ({
     type: FETCH_STATES
@@ -46,5 +48,14 @@ export const takeCountedStates = payload => ({
 
 export const takeCountedDistricts = payload => ({
     type: LOAD_CENTERS_SUCCESS,
+    payload
+})
+
+export const fetchSingleDistrictCenters = () => ({
+    type: FETCH_SINGLE_DISTRICT_CENTERS
+})
+
+export const loadSingleDistrictCentersSuccess = payload => ({
+    type: LOAD_SINGLE_DISTRICT_CENTERS,
     payload
 })
