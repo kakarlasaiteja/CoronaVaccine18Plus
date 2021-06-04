@@ -6,74 +6,77 @@ import { connect } from 'react-redux'
 
 import { Table, Tag, Space } from 'antd';
 
+const sessionColumns = [
+  {
+    title: 'Date',
+    dataIndex: 'date',
+    key: 'date',
+  },
+  {
+    title: 'Dose 1 Availability',
+    dataIndex: 'available_capacity_dose1',
+    key: 'available_capacity_dose1',
+  },
+  {
+    title: 'Dose 2 Availability',
+    dataIndex: 'available_capacity_dose2',
+    key: 'available_capacity_dose2',
+  },
+  {
+    title: 'Vaccine',
+    dataIndex: 'vaccine',
+    key: 'vaccine',
+  },
+  {
+    title: 'Slots Available',
+    dataIndex: 'slots',
+    key: 'slots',
+    render: slots => (
+      slots.map(slot => {
+        return <>
+          <div>{slot}</div>
+        </>
+      })
+    )
+  },
+]
+
 const columns = [
   {
     title: 'Center Name',
     dataIndex: 'name',
     key: 'name',
+    fixed: 'left',
   },
   {
-    title: 'District',
-    dataIndex: 'district_name',
-    key: 'district_name',
-  },
-  {
-    title: 'State',
-    dataIndex: 'state_name',
-    key: 'state_name',
+    title: 'Sessions',
+    dataIndex: 'sessions',
+    key: 'sessions',
+    render: sessions => <Table columns={sessionColumns} dataSource={sessions} pagination={false} />
   },
   {
     title: 'Pincode',
     dataIndex: 'pincode',
     key: 'pincode',
-  }
+  },
+  {
+    title: 'Fee Type',
+    dataIndex: 'fee_type',
+    key: 'fee_type',
+  },
 ];
 
 class CentersTable extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      centers: []
     }
-  }
-
-  // componentDidMount() {
-  //   let { singleDistrictCenters } = this.props
-  //   if (singleDistrictCenters && singleDistrictCenters.length) {
-  //     this.get18YrsCenters(singleDistrictCenters)
-  //   }
-  // }
-
-  // componentDidUpdate() {
-  //   let { singleDistrictCenters } = this.props
-  //   if (singleDistrictCenters && singleDistrictCenters.length) {
-  //     this.get18YrsCenters(singleDistrictCenters)
-  //   }
-  // }
-
-  get18YrsCenters = (centers) => {
-    let centersFor18 = []
-    if (centers && centers.length > 0) {
-      centers.map(center => {
-        if (center.sessions && center.sessions.length > 0) {
-          center.sessions.map(session => {
-            if (session.min_age_limit && session.min_age_limit === 18) {
-              centersFor18.push(center)
-            }
-          })
-        }
-      })
-    }
-    this.setState({
-      centers: centersFor18
-    })
   }
 
   render() {
     let { singleDistrictCenters } = this.props
-    let { centers } = this.state
     return (
-      <Table columns={columns} dataSource={singleDistrictCenters} />
+      <Table className="centersTable" columns={columns} dataSource={singleDistrictCenters} />
     )
   }
 }
