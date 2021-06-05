@@ -6,6 +6,8 @@ import { connect } from 'react-redux'
 
 import { Table, Tag, Space } from 'antd';
 
+import "./CentersTable.css"
+
 const sessionColumns = [
   {
     title: 'Date',
@@ -27,18 +29,18 @@ const sessionColumns = [
     dataIndex: 'vaccine',
     key: 'vaccine',
   },
-  {
-    title: 'Slots Available',
-    dataIndex: 'slots',
-    key: 'slots',
-    render: slots => (
-      slots.map(slot => {
-        return <>
-          <div>{slot}</div>
-        </>
-      })
-    )
-  },
+  // {
+  //   title: 'Slots Available',
+  //   dataIndex: 'slots',
+  //   key: 'slots',
+  //   render: slots => (
+  //     slots.map(slot => {
+  //       return <>
+  //         <div>{slot}</div>
+  //       </>
+  //     })
+  //   )
+  // },
 ]
 
 const columns = [
@@ -53,11 +55,6 @@ const columns = [
     dataIndex: 'sessions',
     key: 'sessions',
     render: sessions => <Table columns={sessionColumns} dataSource={sessions} pagination={false} />
-  },
-  {
-    title: 'Pincode',
-    dataIndex: 'pincode',
-    key: 'pincode',
   },
   {
     title: 'Fee Type',
@@ -76,7 +73,9 @@ class CentersTable extends Component {
   render() {
     let { singleDistrictCenters } = this.props
     return (
-      <Table className="centersTable" columns={columns} dataSource={singleDistrictCenters} />
+      <div className="centersTableWrapper">
+        <Table className="centersTable" columns={columns} dataSource={singleDistrictCenters} />
+      </div>
     )
   }
 }
