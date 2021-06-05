@@ -29,18 +29,18 @@ const sessionColumns = [
     dataIndex: 'vaccine',
     key: 'vaccine',
   },
-  {
-    title: 'Slots Available',
-    dataIndex: 'slots',
-    key: 'slots',
-    render: slots => (
-      slots.map(slot => {
-        return <>
-          <div>{slot}</div>
-        </>
-      })
-    )
-  },
+  // {
+  //   title: 'Slots Available',
+  //   dataIndex: 'slots',
+  //   key: 'slots',
+  //   render: slots => (
+  //     slots.map(slot => {
+  //       return <>
+  //         <div>{slot}</div>
+  //       </>
+  //     })
+  //   )
+  // },
 ]
 
 const columns = [
@@ -55,11 +55,6 @@ const columns = [
     dataIndex: 'sessions',
     key: 'sessions',
     render: sessions => <Table columns={sessionColumns} dataSource={sessions} pagination={false} />
-  },
-  {
-    title: 'Pincode',
-    dataIndex: 'pincode',
-    key: 'pincode',
   },
   {
     title: 'Fee Type',

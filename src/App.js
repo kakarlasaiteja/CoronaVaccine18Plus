@@ -41,12 +41,12 @@ class App extends Component {
         </Header>
         <Content style={{ padding: '0 50px' }}>
           <div className='App'>
-          {/* <NavTabs /> */}
-          <CentersTable />
-        </div>
+            {/* <NavTabs /> */}
+            <CentersTable />
+          </div>
         </Content>
         <Footer style={{ textAlign: 'center' }}>Vaccine Searcher ©2021 Created by Sai Teja</Footer>
-        
+
       </Layout>
     )
   }

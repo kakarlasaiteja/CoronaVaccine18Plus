@@ -2,6 +2,11 @@
   text-align: left;
 }
 
+.App {
+  margin: 2% 2% 2% 0;
+  max-width: 73%; 
+}
+
 .site-layout-content {
   min-height: 280px;
   padding: 24px;
