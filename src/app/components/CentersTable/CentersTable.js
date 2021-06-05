@@ -6,6 +6,8 @@ import { connect } from 'react-redux'
 
 import { Table, Tag, Space } from 'antd';
 
+import "./CentersTable.css"
+
 const sessionColumns = [
   {
     title: 'Date',
@@ -76,7 +78,9 @@ class CentersTable extends Component {
   render() {
     let { singleDistrictCenters } = this.props
     return (
-      <Table className="centersTable" columns={columns} dataSource={singleDistrictCenters} />
+      <div className="centersTableWrapper">
+        <Table className="centersTable" columns={columns} dataSource={singleDistrictCenters} />
+      </div>
     )
   }
 }

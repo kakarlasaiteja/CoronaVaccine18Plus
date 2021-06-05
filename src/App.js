@@ -7,10 +7,13 @@ import { connect } from 'react-redux'
 
 import NavTabs from "./app/components/NavTabs/NavTabs.js";
 import CentersTable from "./app/components/CentersTable/CentersTable";
+import { Layout } from 'antd';
 
 import { fetchStates, fetchDistricts, fetchCenters, fetchSingleDistrictCenters } from "./lib/store/Vaccines/actions";
 
 import 'antd/dist/antd.css'
+
+const { Header, Content, Footer } = Layout;
 
 class App extends Component {
   constructor(props) {
@@ -32,10 +35,19 @@ class App extends Component {
 
   render() {
     return (
-      <div className='App'>
-        {/* <NavTabs /> */}
-        <CentersTable />
-      </div>
+      <Layout className="layout">
+        <Header>
+          <div className="logo" />
+        </Header>
+        <Content style={{ padding: '0 50px' }}>
+          <div className='App'>
+          {/* <NavTabs /> */}
+          <CentersTable />
+        </div>
+        </Content>
+        <Footer style={{ textAlign: 'center' }}>Vaccine Searcher ©2021 Created by Sai Teja</Footer>
+        
+      </Layout>
     )
   }
 }
