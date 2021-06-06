@@ -7,6 +7,7 @@ import { connect } from 'react-redux'
 
 import NavTabs from "./app/components/NavTabs/NavTabs.js";
 import CentersTable from "./app/components/CentersTable/CentersTable";
+import SearchBar from "./app/components/SearchBar/SearchBar"
 import { Layout } from 'antd';
 
 import { fetchStates, fetchDistricts, fetchCenters, fetchSingleDistrictCenters } from "./lib/store/Vaccines/actions";
@@ -24,7 +25,8 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.props.fetchSingleDistrictCenters()
+    this.props.getStates()
+    // this.props.fetchSingleDistrictCenters()
   }
 
   componentDidUpdate(prevProps, prevState) {
@@ -42,6 +44,7 @@ class App extends Component {
         <Content style={{ padding: '0 50px' }}>
           <div className='App'>
             {/* <NavTabs /> */}
+            <SearchBar />
             <CentersTable />
           </div>
         </Content>
@@ -59,7 +62,7 @@ const mapStateToProps = state => ({
 })
 
 const mapDispatchToProps = dispatch => ({
-  // getStates: () => dispatch(fetchStates()),
+  getStates: () => dispatch(fetchStates()),
   // getDistricts: (payload) => dispatch(fetchDistricts(payload)),
   // getcenters: (payload) => dispatch(fetchCenters(payload))
   fetchSingleDistrictCenters: () => dispatch(fetchSingleDistrictCenters())

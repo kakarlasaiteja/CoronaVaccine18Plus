@@ -51,8 +51,9 @@ export const takeCountedDistricts = payload => ({
     payload
 })
 
-export const fetchSingleDistrictCenters = () => ({
-    type: FETCH_SINGLE_DISTRICT_CENTERS
+export const fetchSingleDistrictCenters = (payload) => ({
+    type: FETCH_SINGLE_DISTRICT_CENTERS,
+    payload
 })
 
 export const loadSingleDistrictCentersSuccess = payload => ({

@@ -45,43 +45,18 @@ export const loadStates = function* () {
 export const loadDistricts = function* () {
   while (true) {
     const districtAction = yield take(actions.FETCH_DISTRICTS)
-    let states = districtAction.payload
-    for (let state of states) {
-      let api = "https://cdn-api.co-vin.in/api/v2/admin/location/districts/" + state.state_id
+    let state_id = districtAction.payload
+    let api = "https://cdn-api.co-vin.in/api/v2/admin/location/districts/" + state_id
       try {
         const results = yield call(getData, api)
         if (results.districts) {
-          let sCount = yield select(getSCount)
           yield put(actions.loadDistrictsSuccess(results))
-          // yield put(actions.takeCountedStates(sCount + 1))
-          let districts = results.districts
-          console.log('districts: ', districts)
-          let today = new Date();
-          let dd = String(today.getDate()).padStart(2, '0');
-          let mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-          let yyyy = today.getFullYear();
-          for (let district of districts) {
-            let api = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=" + district.district_id + "&date=" + dd + "-" + mm + "-" + yyyy
-            try {
-              const results = yield call(getData, api)
-              if (results.centers) {
-                let dCount = yield select(getDCount)
-                yield put(actions.loadCentersSuccess(results))
-                // yield put(actions.takeCountedDistricts(dCount + 1))
-              }
-            } catch (error) {
-              console.log('error', error)
-            }
-          }
         }
       } catch (error) {
         console.log('error', error)
       }
-    }
   }
 }
-
-// https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=5&date=03-06-2021
 
 export const loadCenters = function* () {
   while (true) {
@@ -108,12 +83,12 @@ export const loadCenters = function* () {
 export const loadSingleDistrict = function* () {
   while (true) {
     const centersAction = yield take(actions.FETCH_SINGLE_DISTRICT_CENTERS)
-    // let districts = centersAction.payload
+    let district_id = centersAction.payload
     let today = new Date();
     let dd = String(today.getDate()).padStart(2, '0');
     let mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
     let yyyy = today.getFullYear();
-    let api = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=5&date=" + dd + "-" + mm + "-" + yyyy
+    let api = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=" + district_id + "&date=" + dd + "-" + mm + "-" + yyyy
     try {
       const results = yield call(getData, api)
       let centersFor18 = []
@@ -127,7 +102,7 @@ export const loadSingleDistrict = function* () {
             }
           })
         }
-        yield put(actions.loadSingleDistrictCentersSuccess(centersFor18))
+        centersFor18.length === 0 ? yield put(actions.loadSingleDistrictCentersSuccess([])) : yield put(actions.loadSingleDistrictCentersSuccess(centersFor18))
       }
     } catch (error) {
       console.log('error', error)
